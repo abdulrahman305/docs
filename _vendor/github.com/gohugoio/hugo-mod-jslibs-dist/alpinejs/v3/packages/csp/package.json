@@ -7,6 +7,6 @@
     "main": "dist/module.cjs.js",
     "module": "dist/module.esm.js",
     "dependencies": {
-        "@vue/reactivity": "~3.1.1"
+        "@vue/reactivity": "~3.4.27"
     }
 }
