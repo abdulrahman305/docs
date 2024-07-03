@@ -9,7 +9,7 @@
       "@tailwindcss/typography": "github.com/linode/linode-docs-theme",
       "autoprefixer": "github.com/linode/linode-docs-theme",
       "axe-core": "github.com/linode/linode-docs-theme",
-      "core-js": "github.com/linode/linode-docs-theme",
+      "core-js": "3.37.1",
       "cypress": "github.com/linode/linode-docs-theme",
       "cypress-axe": "github.com/linode/linode-docs-theme",
       "cypress-html-validate": "github.com/linode/linode-docs-theme",
