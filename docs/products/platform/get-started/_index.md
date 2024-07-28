@@ -2,7 +2,7 @@
 title: "Getting Started on the Linode Platform"
 description: "Learn how to create an account and use the Linode Cloud Platform."
 published: 2018-11-05
-modified: 2024-06-03
+modified: 2024-07-23
 tab_group_main:
     is_root: true
     title: Get Started
@@ -49,7 +49,12 @@ First, you need to create a Linode account to start using our services. If you a
 1.  Most accounts are activated instantly and you can start adding services right away. A small number of accounts may require manual review prior to activation.
 
 {{% content "email-warning-shortguide" %}}
+
 Once your account has been created, consider **enabling 2FA** to prevent unauthorized access. Anyone that has access to your account may be able to delete your services, add new ones, and reset the root password on your Compute Instances to gain access to them. See [Cloud Manager Security Controls](/docs/products/platform/accounts/guides/user-security-controls/) for instructions on enabling 2FA. If you are logging in with a third party provider, consider adding 2FA through that provider.
+
+{{< note title="Single sign-on (SSO) with Akamai Control Center">}}
+You can log in to Cloud Manager using your [Akamai Control Center](https://control.akamai.com/) account, provided your user email address is identical within both systems. To use this feature, select **Akamai Control Center** as the provider when logging in to Cloud Manager. You are automatically logged in to the Cloud Manager user that matches the email for the currently logged in Control Center user. If multiple Cloud Manager users match this email address, you can select which user to log in as. For more details, see [Single sign-on (SSO) with Akamai Control Center](/docs/products/platform/accounts/guides/user-security-controls/#single-sign-on-sso-with-akamai-control-center).
+{{< /note >}}
 
 ## Navigate the Cloud Manager
 
@@ -61,7 +66,7 @@ Linode's [Cloud Manager](https://cloud.linode.com/) is the primary gateway to ou
 
 - [Help & Support](https://cloud.linode.com/support): Search through our guides, find answers on the Community Site, or open a ticket to reach our 24/7 award-winning [Support Team](https://www.linode.com/support-experience/).
 
-For a full overview of the Cloud Manager and its core features, see the [Overview of the Cloud Manager](/docs/guides/an-overview-of-the-cloud-manager/) guide.
+For a full overview of the Cloud Manager and its core features, see the [Overview of the Cloud Manager](/docs/products/tools/cloud-manager/guides/an-overview-of-the-cloud-manager/) guide.
 
 ## Create Your First Compute Instance
 

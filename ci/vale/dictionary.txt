@@ -1604,6 +1604,7 @@ MXNet
 myapp
 myblog
 mydestination
+mydockerhubusername
 mydomain
 myhostname
 mynewdomain
@@ -1913,6 +1914,7 @@ poplib
 portainer
 portmapper
 portswigger
+portworx
 Postel
 postgres
 postgresql
@@ -2561,6 +2563,7 @@ transcoder
 transcoders
 transcodes
 transcoding
+transformative
 transpiled
 transpiling
 trello
