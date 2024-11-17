@@ -16,7 +16,7 @@
       "postcss-cli": "github.com/linode/linode-docs-theme",
       "prettier": "github.com/linode/linode-docs-theme",
       "prettier-plugin-go-template": "github.com/linode/linode-docs-theme",
-      "tailwindcss": "github.com/linode/linode-docs-theme"
+      "tailwindcss": "3.4.15"
     }
   },
   "dependencies": {},
