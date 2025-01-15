@@ -12,7 +12,7 @@
       "cypress-axe": "github.com/linode/linode-docs-theme",
       "cypress-html-validate": "github.com/linode/linode-docs-theme",
       "html-validate": "github.com/linode/linode-docs-theme",
-      "postcss": "github.com/linode/linode-docs-theme",
+      "postcss": "8.5.0",
       "postcss-cli": "github.com/linode/linode-docs-theme",
       "prettier": "github.com/linode/linode-docs-theme",
       "prettier-plugin-go-template": "github.com/linode/linode-docs-theme",
